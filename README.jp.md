@@ -16,13 +16,13 @@
     <img src="https://img.shields.io/badge/vite-v4.2.1-blueviolet.svg" alt="element-ui">
   </a>
   
-  <a href="https://github.com/yangjiakai/lux-admin-vuetify3/blob/main/LICENSE">
+  <a href="https://github.com/yangjiakai/vuetify3-admin-template-i18n/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 </p>
 
 <h4 align='center'>
-<a href="https://lux.vuetify3.com/">ライブ・デモ</a>
+<a href="https://lux-i18n.netlify.app/">ライブ・デモ</a>
 </h4>
 
 <br>
