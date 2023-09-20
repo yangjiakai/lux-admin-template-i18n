@@ -28,14 +28,12 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.md">English</a> | <a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.zh-CN.md">简体中文</a>| <b >日本語</b>
+<a href="https://github.com/yangjiakai/vuetify3-admin-template-i18n/blob/main/README.md">English</a> | <a href="https://github.com/yangjiakai/vuetify3-admin-template-i18n/blob/main/README.zh-CN.md">简体中文</a>| <b >日本語</b>
 </p>
 
 ## 📖 序文
 
-> 目標は、最も優れた Vuetify 3 の Admin オープンソーステンプレートを作成することです。
-
-Vuetify の洗練されたテーマを基盤に、明確で効率的なプロジェクト構造を構築し、最新の技術フレームワークを統合しています。このプロジェクトは、さまざまな一般的な技術要件や機能に対応することを目指し、AI アシスタントを組み込むことで、よりインテリジェントな体験を提供します。さらに、すべてのページが複数のデバイスで適応的に表示されるようにし、シームレスなクロスプラットフォーム互換性を実現しています。
+> I18n Base Template For Vuetify3-lux-admin
 
 ## 📚 特徴
 
@@ -66,22 +64,6 @@ Vuetify の洗練されたテーマを基盤に、明確で効率的なプロジ
 - Twitter https://twitter.com/baibaixiang
 - Wechat <img  src='/src/assets/wechat-qrcode.png'  alt='DashBoard' width='300' />
 
-## 💌 プレビュー
-
-<img  src='/src/assets/previews/DashBoard.png'  alt='DashBoard' />
-<img  src='/src/assets/previews/TaskBoard.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/DataTable.png'  alt='DataTable' />
-<img  src='/src/assets/previews/Todo.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/ChatGPT.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/Card.png'  alt='Card' />
-<img  src='/src/assets/previews/Color.png'  alt='Color' />
-<img  src='/src/assets/previews/Gradient.png'  alt='Gradient' />
-<img  src='/src/assets/previews/Login.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/Unsplash.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/Unsplash2.png'  alt='ChatGPT' />
-
-<br>
-
 ## 📦 プリパック
 
 ### 🏷️UI Frameworks
@@ -103,24 +85,10 @@ Vuetify の洗練されたテーマを基盤に、明確で効率的なプロジ
 
 ## 👻 今すぐ試す!
 
-```
-git clone https://github.com/yangjiakai/lux-admin-vuetify3.git
-
-cd lux-admin-vuetify3
-
 npm install
 
 npm run dev
+
 ```
 
-### 🔑Set ApiKey
-
-Find the `.env.template` file in the root directory, remove the `.template` suffix, and replace` VITE_OPENAI_API_KEY`, `VITE_UNSPLASH_ACCESS_KEY`, and `VITE_GITHUB_CLIENT_ID`, and `VITE_TTS_KEY` and `VITE_TTS_REGION` with your own keys.
-
-> openai apikey： https://platform.openai.com/account/api-keys
-
-> unsplash apikey： https://unsplash.com/oauth/applications
-
-> github apikey： https://github.com/settings/tokens
-
-> azure textToSpeech : https://speech.microsoft.com/
+```

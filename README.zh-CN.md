@@ -28,14 +28,12 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.md">English</a> | <b>简体中文</b>| <a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.jp.md">日本語</a>
+<a href="https://github.com/yangjiakai/vuetify3-admin-template-i18n/blob/main/README.md">English</a> | <b>简体中文</b>| <a href="https://github.com/yangjiakai/vuetify3-admin-template-i18n/blob/main/README.jp.md">日本語</a>
 </p>
 
 ## 📖 序文
 
-> 目标创造最优秀的 vuetify3 的 Admin 开源模板
-
-在 Vuetify 精美的主题基础上，我们构建了一个清晰且高效的项目逻辑架构，整合了最新的技术框架。本项目旨在实现各种常见的技术需求和功能，同时融合了 AI 助手，以提供更智能化的体验。此外，我们确保所有页面在多种设备上均能自适应展示，实现优雅的跨平台兼容性。
+> vuetify3-lux-admin 的 Base 模板（国际化）
 
 ## 📚 特性
 
@@ -68,18 +66,6 @@
 
 ## 💌 预览
 
-<img  src='/src/assets/previews/DashBoard.png'  alt='DashBoard' />
-<img  src='/src/assets/previews/TaskBoard.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/DataTable.png'  alt='DataTable' />
-<img  src='/src/assets/previews/Todo.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/ChatGPT.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/Card.png'  alt='Card' />
-<img  src='/src/assets/previews/Color.png'  alt='Color' />
-<img  src='/src/assets/previews/Gradient.png'  alt='Gradient' />
-<img  src='/src/assets/previews/Login.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/Unsplash.png'  alt='ChatGPT' />
-<img  src='/src/assets/previews/Unsplash2.png'  alt='ChatGPT' />
-
 <br>
 
 ## 📦Pre-packed
@@ -92,42 +78,6 @@
 
 - [Iconify](https://iconify.design) - 使用任意的图标集 [🔍Icônes](https://icones.netlify.app/)
 - [Pure CSS Icons via UnoCSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
-
-## 目标功能
-
-- [x] 明暗主题切换 -- 完成
-- [x] 主题色切换 -- 完成
-- [x] 中日英三语言切换-- 完成
-- [x] 整合 ChatGpt-- 完成
-
-## 目标页面
-
-### 认证相关
-
-- [x] 登录 -- 完成
-- [x] 注册 -- 完成
-- [x] 验证邮件 -- 完成
-- [ ] 密码重置 -- 施工中
-
-### 公共页面
-
-- [x] 404 -- 完成
-- [x] 500 -- 施工中
-- [x] 系统维护 -- 施工中
-- [x] 常见问题 -- 施工中
-
-### UI 相关
-
-- [x] 瀑布流布局 -- 完成
-- [x] 大数据虚拟列表 -- 完成
-- [ ] 骨架屏 -- 施工中
-
-### 功能页面
-
-- [x] 任务版(拖拽功能) -- 完成
-- [x] 任务列表() -- 施工中
-
-### 站点仿写
 
 - [ ] ......
 
@@ -142,24 +92,9 @@
 ## 👻 现在可以试试!
 
 ```
-git clone https://github.com/yangjiakai/lux-admin-vuetify3.git
 
-cd lux-admin-vuetify3
 
 npm install
 
 npm run dev
 ```
-
-### 🔑 配置 ApiKey
-
-找到根目录下的`.env.template`文件，去掉`.template`后缀
-把`VITE_OPENAI_API_KEY`,`VITE_UNSPLASH_ACCESS_KEY`,`VITE_GITHUB_CLIENT_ID`,`VITE_TTS_KEY` , `VITE_TTS_REGION`分别替换成你自己的
-
-> openai apikey： https://platform.openai.com/account/api-keys
-
-> unsplash apikey： https://unsplash.com/oauth/applications
-
-> github apikey： https://github.com/settings/tokens
-
-> azure textToSpeech : https://speech.microsoft.com/
