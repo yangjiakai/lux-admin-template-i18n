@@ -31,9 +31,19 @@
 <a href="https://github.com/yangjiakai/vuetify3-admin-template-i18n/blob/main/README.md">English</a> | <b>简体中文</b>| <a href="https://github.com/yangjiakai/vuetify3-admin-template-i18n/blob/main/README.jp.md">日本語</a>
 </p>
 
-## 📖 序文
+## 📖 概要
 
-> vuetify3-lux-admin 的 Base 模板（国际化）
+- vuetify3-lux-admin 的 Base 模板（国际化）
+
+## 📖 其他版本
+
+精简中文版: <a href="https://github.com/yangjiakai/vuetify3-lux-admin-template-i18n/tree/main">vuetify3-lux-admin-template-i18n</a>
+
+完全版: <a href="https://github.com/yangjiakai/lux-admin-vuetify3/tree/main">vuetify3-lux-admin</a>
+
+Nuxt3 Version: 开发中
+
+## 文档
 
 ## 📚 特性
 

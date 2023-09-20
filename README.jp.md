@@ -33,7 +33,19 @@
 
 ## 📖 序文
 
-> I18n Base Template For Vuetify3-lux-admin
+- I18n Base Template For Vuetify3-lux-admin
+
+## 📖Introduction
+
+- I18n Base Template For Vuetify3-lux-admin
+
+Simplified Chinese version: <a href="https://github.com/yangjiakai/vuetify3-lux-admin-template-i18n/tree/main">vuetify3-lux-admin-template-i18n</a>
+
+Fullversion: <a href="https://github.com/yangjiakai/lux-admin-vuetify3/tree/main">vuetify3-lux-admin</a>
+
+Nuxt3 Version: Creating
+
+## 📚Features
 
 ## 📚 特徴
 
