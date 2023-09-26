@@ -37,7 +37,7 @@
 
 ## 📖 其他版本
 
-精简中文版: <a href="https://github.com/yangjiakai/vuetify3-lux-admin-template-i18n/tree/main">vuetify3-lux-admin-template-i18n</a>
+精简中文版: <a href="https://github.com/yangjiakai/vuetify3-lux-admin-template-zh/tree/main">vuetify3-lux-admin-template-zh</a>
 
 完全版: <a href="https://github.com/yangjiakai/lux-admin-vuetify3/tree/main">vuetify3-lux-admin</a>
 
